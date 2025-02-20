@@ -1,0 +1,19 @@
+Metadata-Version: 2.2
+Name: mars
+Version: 0.0.1
+Summary: Un package pour créer des réseaux de neurones denses
+Home-page: 
+Author: Yéro
+Author-email: diamanka.tck@gmail.com
+Classifier: Programming Language :: Python :: 3.12
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.12
+License-File: LICENCE
+Requires-Dist: numpy>=2.2.2
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
